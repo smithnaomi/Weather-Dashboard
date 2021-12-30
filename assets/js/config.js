@@ -1,1 +1,3 @@
-var config = {};
+var config = {
+  apiKey: "",
+};

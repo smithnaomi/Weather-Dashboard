@@ -8,19 +8,19 @@ body {
   background-color: aliceblue;
 }
 
-header {
+/* header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   background-color: #2a607c;
   color: #ffffff;
+} */
+
+.btn-info {
+  background-color: #254c87;
 }
-/* 
-nav {
-  padding: 0%;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 30px;
-  text-align: center;
-  background-color: rgb(184, 111, 43);
-  color: #ffffff;
+
+/* .btn-primary:hover {
+  background-color: #0c0c0c;
+  color: #143444;
 } */

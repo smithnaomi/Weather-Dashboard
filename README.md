@@ -4,13 +4,11 @@ _by Naomi Smith_
 
 ## Description
 
-<!-- <p> An employee with access will be able to generate a strong password based off given criteria. When directed to generate a password the user will be prompted to select the criteria to create a personal strong password. The user will select if the password will contain uppercase letters, lowercase letters, special characters and numbers. Once prompted through the criteria, the password will be generated and be displayed on the written page. The script.js was challenging, working with if statements and for. Understanding what and why certain methods were called was very exciting to see run. These concepts are now clear due to this assignment. Let's go provide some strong passwords. <p>
- -->
+<p> Nothing is worse than preparing for the day and the weather has a different idea than you. User is able to use the application to check the weather in their desired city. User can search the city and will be presented with current weather conditions for that city. Also displayed is a five day forecast with date, weather conditions are displayed with city name, date, icon representation of weather conditions, temperature, wind speed, humidity, and UV index. Cities are saved to revisit and can be cleared when user's search is done.  <p>
 
 ## Usage
 
-<!--
-![Password Generator](assets/03-javascript-homework-demo.png) -->
+![Live Demo](assets/images/WeatherDashboard.gif)
 
 [Live webpage](https://smithnaomi.github.io/Weather-Dashboard/)
 

@@ -4,7 +4,7 @@ _by Naomi Smith_
 
 ## Description
 
-<p> Nothing is worse than preparing for the day and the weather has a different idea than you. User is able to use the application to check the weather in their desired city. User can search the city and will be presented with current weather conditions for that city. Also displayed is a five day forecast with date, weather conditions are displayed with city name, date, icon representation of weather conditions, temperature, wind speed, humidity, and UV index. Cities are saved to revisit and can be cleared when user's search is done.  <p>
+<p> Nothing is worse than preparing for the day and the weather has a different idea than you. User is able to use the application to check the weather in their desired city. The desired city will be presented with current weather conditions for that city. Also displayed is a five day forecast. Weather conditions are displayed with city name, date, icon representation of weather conditions, temperature, wind speed, humidity, and UV index. Cities are saved to revisit and can be cleared when user's search is done.  <p>
 
 ## Usage
 
